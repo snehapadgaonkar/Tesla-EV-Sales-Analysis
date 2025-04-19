@@ -41,7 +41,11 @@ Performed cleaning and transformation steps:
 
 ## 📊 Power BI Dashboard Features
 
-- **Choropleth Map** – EV sales vs station count by region  
+<p align="center">
+  <img src="dashboard.png" alt="Power BI Dashboard Screenshot" width="800"/>
+</p>
+
+- **Filled Map** – EV sales vs station count by region  
 - **KPI Cards** – Total EVs, avg wait time, total sessions  
 - **Bar Charts** – Station-level load analysis  
 - **Line Charts** – Yearly sales growth  
